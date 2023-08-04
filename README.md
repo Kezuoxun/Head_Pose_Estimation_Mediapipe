@@ -1,6 +1,6 @@
-# Head_Pose_Estimation_Mediapipe
+## Head_Pose_Estimation_Mediapipe
 
-This is a small topic of my research in the laboratory of the Electrical Engineering Research Institute of National Chung Cheng University (CCU)
+# This is a small topic of my research in the laboratory of the Electrical Engineering Research Institute of National Chung Cheng University (CCU)
 
 Python hpe_angle_run is the program that mainly runs Mediapipe head pose estimation
 
