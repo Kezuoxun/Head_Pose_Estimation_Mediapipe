@@ -1,5 +1,7 @@
 # Head_Pose_Estimation_Mediapipe
 
+This is a small topic of my research in the laboratory of the Electrical Engineering Research Institute of National Chung Cheng University (CCU)
+
 Python hpe_angle_run is the program that mainly runs Mediapipe head pose estimation
 
 Python hpe_mesh is the program that the mouse on the image can be controlled by the angle of head rotation (pitch, row, yaw).
